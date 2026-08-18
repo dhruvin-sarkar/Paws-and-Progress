@@ -1,0 +1,11 @@
+# Keep the git history clean from non-website files
+docs/
+CLAUDE.md
+paws and progress logo.jpeg
+.remember/
+node_modules/
+.next/
+.env.local
+.env
+.DS_Store
+*.log
